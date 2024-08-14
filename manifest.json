@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "My First Chrome Extension",
+  "version": "1.0",
+  "description": "Google Chrome Extension",
+  "icons":{
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png"
+  },
+  "browser_icon": "icon16.png",
+  "default_popup": "popup.html"
+}
